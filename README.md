@@ -1,4 +1,4 @@
-# Analise-materia-prima-agricultura
+# Analyze-raw-material-agriculture
 This project works with data analysis using Python to understand prices and their variations in the area of ​​agricultural raw materials
 
 Video on YouTube with full explanation about the project: https://www.youtube.com/watch?v=NPC2BFcVpU0
